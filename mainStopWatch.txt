@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title>StopWatch</title>
+  <link rel="stylesheet" href="StopWatchStyle.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Stopwatch</h1>
+    <div id="display">00:00:00</div>
+    <div class="buttons">
+      <button id="start">Start</button>
+      <button id="stop">Stop</button>
+      <button id="reset">Reset</button>
+    </div>
+  </div>
+  <script src="StopWatchScript.js"></script>
+</body>
+</html>
